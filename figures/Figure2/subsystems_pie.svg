@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="432pt" height="288pt" viewBox="0 0 432 288" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2022-10-28T09:42:34.598287</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.5.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 288 
+L 432 288 
+L 432 0 
+L 0 0 
+L 0 288 
+z
+" style="fill: none"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 308.376 143.28 
+C 308.376 123.685946 301.754743 104.65531 289.592453 89.292835 
+C 277.430162 73.930361 260.426278 63.119529 241.354891 58.624068 
+L 221.4 143.28 
+L 308.376 143.28 
+z
+" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 241.354891 58.624068 
+C 229.715571 55.880475 217.634522 55.566564 205.868426 57.701996 
+C 194.102331 59.837427 182.902081 64.376668 172.969192 71.035406 
+L 221.4 143.28 
+L 241.354891 58.624068 
+z
+" style="fill: #ff7f0e"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 172.969192 71.035406 
+C 165.47495 76.059341 158.807871 82.218936 153.20755 89.292832 
+C 147.607229 96.366728 143.141566 104.269159 139.971045 112.716134 
+L 221.4 143.28 
+L 172.969192 71.035406 
+z
+" style="fill: #2ca02c"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 139.971045 112.716134 
+C 137.03709 120.532845 135.243901 128.731451 134.646746 137.059265 
+C 134.049591 145.387078 134.654669 153.757654 136.443331 161.913006 
+L 221.4 143.28 
+L 139.971045 112.716134 
+z
+" style="fill: #d62728"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 136.443331 161.913006 
+C 138.217577 170.002632 141.138211 177.797529 145.116649 185.061275 
+C 149.095087 192.325022 154.090697 198.983431 159.951958 204.834551 
+L 221.4 143.28 
+L 136.443331 161.913006 
+z
+" style="fill: #9467bd"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 159.951958 204.834551 
+C 165.694183 210.56684 172.210384 215.467523 179.310802 219.393888 
+C 186.41122 223.320253 194.026255 226.233812 201.934147 228.049718 
+L 221.4 143.28 
+L 159.951958 204.834551 
+z
+" style="fill: #8c564b"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 201.934147 228.049718 
+C 207.092353 229.234208 212.347924 229.945418 217.635421 230.174491 
+C 222.922918 230.403564 228.220306 230.149546 233.461625 229.415601 
+L 221.4 143.28 
+L 201.934147 228.049718 
+z
+" style="fill: #e377c2"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 233.461625 229.415601 
+C 237.839534 228.80256 242.164341 227.856643 246.398437 226.586079 
+C 250.632533 225.315514 254.763608 223.723994 258.755736 221.82536 
+L 221.4 143.28 
+L 233.461625 229.415601 
+z
+" style="fill: #7f7f7f"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 258.755736 221.82536 
+C 262.414905 220.085079 265.947995 218.091221 269.329181 215.858359 
+C 272.710367 213.625496 275.931392 211.159083 278.968712 208.477147 
+L 221.4 143.28 
+L 258.755736 221.82536 
+z
+" style="fill: #bcbd22"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 278.968712 208.477147 
+C 280.976398 206.704372 282.901127 204.839805 284.736743 202.889408 
+C 286.57236 200.939011 288.316907 198.904866 289.964805 196.793475 
+L 221.4 143.28 
+L 278.968712 208.477147 
+z
+" style="fill: #17becf"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 289.964805 196.793475 
+C 291.36545 194.998882 292.695098 193.149991 293.950677 191.251073 
+C 295.206256 189.352155 296.386799 187.404674 297.489578 185.41313 
+L 221.4 143.28 
+L 289.964805 196.793475 
+z
+" style="fill: #1f77b4"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 297.489578 185.41313 
+C 298.511252 183.568056 299.465477 181.686432 300.35036 179.771988 
+C 301.235244 177.857544 302.0502 175.911548 302.793613 173.937858 
+L 221.4 143.28 
+L 297.489578 185.41313 
+z
+" style="fill: #ff7f0e"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 302.793613 173.937858 
+C 303.312793 172.559486 303.796876 171.168149 304.245393 169.765191 
+C 304.693911 168.362234 305.106718 166.94811 305.483415 165.524187 
+L 221.4 143.28 
+L 302.793613 173.937858 
+z
+" style="fill: #2ca02c"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 305.483415 165.524187 
+C 305.774493 164.423907 306.043947 163.318019 306.29162 162.207163 
+C 306.539292 161.096307 306.765137 159.980697 306.969023 158.860977 
+L 221.4 143.28 
+L 305.483415 165.524187 
+z
+" style="fill: #d62728"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 306.969023 158.860977 
+C 307.148921 157.872995 307.311695 156.881972 307.457272 155.888354 
+C 307.602848 154.894735 307.731205 153.89867 307.842284 152.900605 
+L 221.4 143.28 
+L 306.969023 158.860977 
+z
+" style="fill: #9467bd"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 307.842284 152.900605 
+C 307.953364 151.902541 308.04715 150.902628 308.1236 149.901316 
+C 308.20005 148.900004 308.259152 147.897443 308.30088 146.894084 
+L 221.4 143.28 
+L 307.842284 152.900605 
+z
+" style="fill: #8c564b"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 308.30088 146.894084 
+C 308.325917 146.292078 308.344697 145.689829 308.357218 145.087433 
+C 308.369739 144.485037 308.376 143.882527 308.376 143.280001 
+L 221.4 143.28 
+L 308.30088 146.894084 
+z
+" style="fill: #e377c2"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2">
+    <g id="text_1">
+     <text style="font: 10px 'sans-serif'; text-anchor: middle" x="103.100313" y="143.28" transform="rotate(-90, 103.100313, 143.28)">total of reactions</text>
+    </g>
+   </g>
+   <g id="text_2">
+    <text style="font: 10px 'sans-serif'; text-anchor: start" x="296.411698" y="86.653494" transform="rotate(-0, 296.411698, 86.653494)">Transport</text>
+   </g>
+   <g id="text_3">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="262.315472" y="113.647076" transform="rotate(-0, 262.315472, 113.647076)">21%</text>
+   </g>
+   <g id="text_4">
+    <text style="font: 10px 'sans-serif'; text-anchor: end" x="204.315269" y="51.90357" transform="rotate(-0, 204.315269, 51.90357)">Lipid Metabolism</text>
+   </g>
+   <g id="text_5">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="212.081056" y="94.692573" transform="rotate(-0, 212.081056, 94.692573)">13%</text>
+   </g>
+   <g id="text_6">
+    <text style="font: 10px 'sans-serif'; text-anchor: end" x="146.388305" y="86.65349" transform="rotate(-0, 146.388305, 86.65349)">Amino Acid Metabolism</text>
+   </g>
+   <g id="text_7">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="180.48453" y="113.647074" transform="rotate(-0, 180.48453, 113.647074)">10%</text>
+   </g>
+   <g id="text_8">
+    <text style="font: 10px 'sans-serif'; text-anchor: end" x="125.971421" y="139.196566" transform="rotate(-0, 125.971421, 139.196566)">Extracellular exchange</text>
+   </g>
+   <g id="text_9">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="169.348048" y="142.306934" transform="rotate(-0, 169.348048, 142.306934)">9%</text>
+   </g>
+   <g id="text_10">
+    <text style="font: 10px 'sans-serif'; text-anchor: end" x="137.488314" y="191.998778" transform="rotate(-0, 137.488314, 191.998778)">Alternate Carbon Metabolism</text>
+   </g>
+   <g id="text_11">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="175.62999" y="171.10814" transform="rotate(-0, 175.62999, 171.10814)">9%</text>
+   </g>
+   <g id="text_12">
+    <text style="font: 10px 'sans-serif'; text-anchor: end" x="175.101882" y="229.764652" transform="rotate(-0, 175.101882, 229.764652)">Cofactor and Prosthetic Group Biosynthesis</text>
+   </g>
+   <g id="text_13">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="196.146481" y="191.707708" transform="rotate(-0, 196.146481, 191.707708)">9%</text>
+   </g>
+   <g id="text_14">
+    <text style="font: 10px 'sans-serif'; text-anchor: end" x="217.258963" y="241.623315" transform="rotate(-0, 217.258963, 241.623315)">Nucleotide Metabolism</text>
+   </g>
+   <g id="text_15">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="219.141253" y="198.176069" transform="rotate(-0, 219.141253, 198.176069)">6%</text>
+   </g>
+   <g id="text_16">
+    <text style="font: 10px 'sans-serif'; text-anchor: start" x="248.898281" y="237.676061" transform="rotate(-0, 248.898281, 237.676061)">Cell Envelope Biosynthesis</text>
+   </g>
+   <g id="text_17">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="236.399062" y="196.023022" transform="rotate(-0, 236.399062, 196.023022)">5%</text>
+   </g>
+   <g id="text_18">
+    <text style="font: 10px 'sans-serif'; text-anchor: start" x="274.122099" y="225.87557" transform="rotate(-0, 274.122099, 225.87557)">Others</text>
+   </g>
+   <g id="text_19">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="250.157509" y="189.58639" transform="rotate(-0, 250.157509, 189.58639)">4%</text>
+   </g>
+   <g id="text_20">
+    <text style="font: 10px 'sans-serif'; text-anchor: start" x="291.070418" y="211.609724" transform="rotate(-0, 291.070418, 211.609724)">Carotenoid Biosynthesis</text>
+   </g>
+   <g id="text_21">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="259.402046" y="181.80502" transform="rotate(-0, 259.402046, 181.80502)">3%</text>
+   </g>
+   <g id="text_22">
+    <text style="font: 10px 'sans-serif'; text-anchor: start" x="301.205745" y="198.807555" transform="rotate(-0, 301.205745, 198.807555)">Carbohydrate Metabolism</text>
+   </g>
+   <g id="text_23">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="264.930406" y="174.822019" transform="rotate(-0, 264.930406, 174.822019)">2%</text>
+   </g>
+   <g id="text_24">
+    <text style="font: 10px 'sans-serif'; text-anchor: start" x="308.245396" y="186.180562" transform="rotate(-0, 308.245396, 186.180562)">Energy Metabolism</text>
+   </g>
+   <g id="text_25">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="268.770216" y="167.934568" transform="rotate(-0, 268.770216, 167.934568)">2%</text>
+   </g>
+   <g id="text_26">
+    <text style="font: 10px 'sans-serif'; text-anchor: start" x="312.529933" y="175.173085" transform="rotate(-0, 312.529933, 175.173085)">Aromatic Compounds Metabolism</text>
+   </g>
+   <g id="text_27">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="271.107236" y="161.93049" transform="rotate(-0, 271.107236, 161.93049)">2%</text>
+   </g>
+   <g id="text_28">
+    <text style="font: 10px 'sans-serif'; text-anchor: start" x="314.780782" y="166.859254" transform="rotate(-0, 314.780782, 166.859254)">Pyruvate Metabolism/TCA Reactions</text>
+   </g>
+   <g id="text_29">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="272.334972" y="157.395673" transform="rotate(-0, 272.334972, 157.395673)">1%</text>
+   </g>
+   <g id="text_30">
+    <text style="font: 10px 'sans-serif'; text-anchor: start" x="316.062999" y="159.908564" transform="rotate(-0, 316.062999, 159.908564)">Nitrogen Metabolism</text>
+   </g>
+   <g id="text_31">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="273.034363" y="153.604387" transform="rotate(-0, 273.034363, 153.604387)">1%</text>
+   </g>
+   <g id="text_32">
+    <text style="font: 10px 'sans-serif'; text-anchor: start" x="316.79596" y="153.322823" transform="rotate(-0, 316.79596, 153.322823)">Photosynthesis</text>
+   </g>
+   <g id="text_33">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="273.43416" y="150.012165" transform="rotate(-0, 273.43416, 150.012165)">1%</text>
+   </g>
+   <g id="text_34">
+    <text style="font: 10px 'sans-serif'; text-anchor: start" x="317.05294" y="148.027551" transform="rotate(-0, 317.05294, 148.027551)">Pentose Phosphate Pathway</text>
+   </g>
+   <g id="text_35">
+    <text style="font: 10px 'sans-serif'; text-anchor: middle" x="273.574331" y="147.123835" transform="rotate(-0, 273.574331, 147.123835)">1%</text>
+   </g>
+  </g>
+ </g>
+</svg>

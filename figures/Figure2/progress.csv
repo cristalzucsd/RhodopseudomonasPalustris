@@ -1,0 +1,7 @@
+model	reactions 	metabolites	microorganism genes	exogenes	total
+Draft from iJB785 and iJN678	956	802	725	0	725
+Draft from iJB785 and iJN678 and iML1515	1732	1569	1190	208	1398
+Model after first stage of manual curation	2298	1918	1315	200	1515
+Model after initial transports addition and before experimental validation	2349	1955	1275	128	1403
+Model after Biolog plates validation and gap filling	2655	2081	1282	0	1282
+Model after adding specific pathways and experimental validation from literature	2721	2123	1294	0	1294
