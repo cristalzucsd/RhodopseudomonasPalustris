@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with matplotlib (https://matplotlib.org/) -->
+<svg height="288pt" version="1.1" viewBox="0 0 432 288" width="432pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2022-10-25T13:05:09.934154</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.3.4, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 288 
+L 432 288 
+L 432 0 
+L 0 0 
+z
+" style="fill:none;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 308.376 143.28 
+C 308.376 131.60089 306.023599 120.040538 301.459457 109.290179 
+C 296.895315 98.539821 290.21225 88.818083 281.809869 80.706265 
+C 273.407488 72.594447 263.456666 66.257516 252.552402 62.074382 
+C 241.648137 57.891247 230.012186 55.94698 218.340305 56.357835 
+C 206.668424 56.768689 195.197981 59.526311 184.614837 64.465811 
+C 174.031693 69.405311 164.551073 76.426236 156.73986 85.108779 
+C 148.928647 93.791322 142.945695 103.958909 139.148746 115.003581 
+C 135.351798 126.048253 133.818071 137.745399 134.639272 149.395602 
+L 221.4 143.28 
+L 308.376 143.28 
+z
+" style="fill:#1f77b4;"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 134.639272 149.395602 
+C 135.66281 163.916316 140.315547 177.950373 148.169422 190.206613 
+C 156.023297 202.462852 166.829832 212.553517 179.594806 219.550245 
+L 221.4 143.28 
+L 134.639272 149.395602 
+z
+" style="fill:#ff7f0e;"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 179.594806 219.550245 
+C 188.692047 224.536619 198.608475 227.855379 208.874521 229.349373 
+C 219.140567 230.843367 229.59159 230.488636 239.732706 228.301976 
+L 221.4 143.28 
+L 179.594806 219.550245 
+z
+" style="fill:#2ca02c;"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 239.732706 228.301976 
+C 248.448444 226.422662 256.823608 223.214276 264.564201 218.789445 
+C 272.304794 214.364615 279.319169 208.775728 285.361097 202.218974 
+L 221.4 143.28 
+L 239.732706 228.301976 
+z
+" style="fill:#d62728;"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 285.361097 202.218974 
+C 290.274264 196.887162 294.501516 190.961866 297.944387 184.581107 
+C 301.387257 178.200349 304.018804 171.414057 305.777731 164.380309 
+L 221.4 143.28 
+L 285.361097 202.218974 
+z
+" style="fill:#9467bd;"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 305.777731 164.380309 
+C 306.213061 162.639475 306.594413 160.885586 306.921238 159.12116 
+C 307.248064 157.356734 307.520208 155.582616 307.737279 153.801354 
+L 221.4 143.28 
+L 305.777731 164.380309 
+z
+" style="fill:#8c564b;"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 307.737279 153.801354 
+C 307.84746 152.897213 307.943433 151.991398 308.02516 151.084242 
+C 308.106888 150.177087 308.17436 149.268704 308.227553 148.35943 
+L 221.4 143.28 
+L 307.737279 153.801354 
+z
+" style="fill:#e377c2;"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 308.227553 148.35943 
+C 308.266383 147.695665 308.297601 147.031478 308.3212 146.366998 
+C 308.344799 145.702518 308.360778 145.037789 308.369133 144.372942 
+L 221.4 143.28 
+L 308.227553 148.35943 
+z
+" style="fill:#7f7f7f;"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 308.369133 144.372942 
+C 308.370495 144.264564 308.371654 144.156184 308.372611 144.047802 
+C 308.373568 143.939419 308.374322 143.831036 308.374874 143.72265 
+L 221.4 143.28 
+L 308.369133 144.372942 
+z
+" style="fill:#bcbd22;"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2">
+    <g id="text_1">
+     <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-90, 106.600313, 143.28)" x="106.600313" y="143.28">1</text>
+    </g>
+   </g>
+   <g id="text_2">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 218.034336, 50.285931)" x="218.034336" y="50.285931">bm_pro_c</text>
+   </g>
+   <g id="text_3">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 219.564183, 93.886076)" x="219.564183" y="93.886076">51%</text>
+   </g>
+   <g id="text_4">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 140.846364, 197.519587)" x="140.846364" y="197.519587">bm_oth_c</text>
+   </g>
+   <g id="text_5">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 177.461653, 174.195343)" x="177.461653" y="174.195343">16%</text>
+   </g>
+   <g id="text_6">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:end;" transform="rotate(-0, 207.621973, 240.576623)" x="207.621973" y="240.576623">bm_rna_c</text>
+   </g>
+   <g id="text_7">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 213.884713, 197.680999)" x="213.884713" y="197.680999">11%</text>
+   </g>
+   <g id="text_8">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 268.880621, 228.960702)" x="268.880621" y="228.960702">bm_carbs_c</text>
+   </g>
+   <g id="text_9">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 247.298521, 191.345042)" x="247.298521" y="191.345042">10%</text>
+   </g>
+   <g id="text_10">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 305.598825, 191.331531)" x="305.598825" y="191.331531">bm_cw_c</text>
+   </g>
+   <g id="text_11">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 267.326632, 170.820039)" x="267.326632" y="170.820039">8%</text>
+   </g>
+   <g id="text_12">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 315.473362, 163.325588)" x="315.473362" y="163.325588">bm_pigm_c</text>
+   </g>
+   <g id="text_13">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 272.712743, 155.544071)" x="272.712743" y="155.544071">2%</text>
+   </g>
+   <g id="text_14">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 316.687676, 154.484979)" x="316.687676" y="154.484979">bm_min_c</text>
+   </g>
+   <g id="text_15">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 273.375096, 150.72192)" x="273.375096" y="150.72192">1%</text>
+   </g>
+   <g id="text_16">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 317.01332, 149.29601)" x="317.01332" y="149.29601">bm_dna_c</text>
+   </g>
+   <g id="text_17">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 273.55272, 147.891574)" x="273.55272" y="147.891574">1%</text>
+   </g>
+   <g id="text_18">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 317.069872, 146.744894)" x="317.069872" y="146.744894">bm_cofactors_c</text>
+   </g>
+   <g id="text_19">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 273.583567, 146.500056)" x="273.583567" y="146.500056">0%</text>
+   </g>
+  </g>
+ </g>
+</svg>
